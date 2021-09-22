@@ -1,0 +1,44 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>res/image/title_ybb.png</file>
+        <file>res/image/title_dlc1.png</file>
+        <file>res/image/title_dlc2.png</file>
+        <file>res/image/subtitle_dlc2.png</file>
+        <file>res/image/title_dlc_d1.png</file>
+        <file>res/image/title_dlc_d2.png</file>
+        <file>res/image/title_jsc1.png</file>
+        <file>res/image/title_jsc2.png</file>
+        <file>res/image/title_jsc_d1.png</file>
+        <file>res/image/title_jsc_d2.png</file>
+        <file>res/image/title_zdc1.png</file>
+        <file>res/image/title_zdc2.png</file>
+        <file>res/image/title_zdc_d1.png</file>
+        <file>res/image/title_zdc_d2.png</file>
+        <file>res/image/title_jsc_c1.png</file>
+        <file>res/image/subtitle_jsc_c1.png</file>
+        <file>res/image/title_jsc_c2.png</file>
+        <file>res/image/title_jsc_c3.png</file>
+        <file>res/image/subtitle_jsc_c31.png</file>
+        <file>res/image/subtitle_jsc_c32.png</file>
+        <file>res/image/subtitle_jsc_c33.png</file>
+        <file>res/image/title_ybb_b.png</file>
+        <file>res/image/title_dlc_b1.png</file>
+        <file>res/image/title_dlc_b2.png</file>
+        <file>res/image/subtitle_dlc_b2.png</file>
+        <file>res/image/title_jsc_b1.png</file>
+        <file>res/image/title_jsc_b2.png</file>
+        <file>res/image/title_jsc_b3.png</file>
+        <file>res/image/highlight_pad.png</file>
+        <file>res/image/highlight_pad1.png</file>
+        <file>res/image/title_veri1_1.png</file>
+        <file>res/image/title_veri1_2.png</file>
+        <file>res/image/title_veri2.png</file>
+        <file>res/image/title_veri3.png</file>
+        <file>res/image/frame_veri0.png</file>
+        <file>res/image/frame_veri10.png</file>
+        <file>res/image/frame_veri11.png</file>
+        <file>res/image/frame_veri2.png</file>
+        <file>res/image/frame_veri3.png</file>
+        <file>res/image/frame_confirm.png</file>
+    </qresource>
+</RCC>
